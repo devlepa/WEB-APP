@@ -13,7 +13,7 @@ la idea es crear un pojecto en el cual implemente python para el desarrollo de u
 Para instalar este prjecto, sigue los siguientes pasos:
 
 1. Clona el repositorio
-    ``` bash git clone https://github.com/devlepa/projecto.git```
+    `` bash git clone https://github.com/devlepa/projecto.git``
 
 2. Entra en el directorio del projecto
     ``` cd projecto ```
