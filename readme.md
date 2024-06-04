@@ -3,10 +3,10 @@ la idea es crear un pojecto en el cual implemente python para el desarrollo de u
 
 ## tabla de contenidos
 
-- [Instalacion] (#instalacion)
-- [Uso] (#uso)
-- [Contribucion] (#contribucion)
-- [Licencia] (#licencia)
+- [Instalacion] (instalacion)
+- [Uso] (uso)
+- [Contribucion] (contribucion)
+- [Licencia] (licencia)
 
 ## instalacion
 
